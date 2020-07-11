@@ -1,1 +1,1 @@
-![DeanIO Logo](https://deanout.github.com/Resources/Deanio.jpg)
+![DeanIO Logo](https://github.com/Deanout/Deanout/blob/master/Resources/Deanio.jpg)
